@@ -1,0 +1,15 @@
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\bin\Debug\net6.0\Test03.exe
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\bin\Debug\net6.0\Test03.deps.json
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\bin\Debug\net6.0\Test03.runtimeconfig.json
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\bin\Debug\net6.0\Test03.dll
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\bin\Debug\net6.0\Test03.pdb
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\obj\Debug\net6.0\Test03.csproj.AssemblyReference.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\obj\Debug\net6.0\Test03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\obj\Debug\net6.0\Test03.AssemblyInfoInputs.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\obj\Debug\net6.0\Test03.AssemblyInfo.cs
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\obj\Debug\net6.0\Test03.csproj.CoreCompileInputs.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\obj\Debug\net6.0\Test03.dll
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\obj\Debug\net6.0\refint\Test03.dll
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\obj\Debug\net6.0\Test03.pdb
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\obj\Debug\net6.0\Test03.genruntimeconfig.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test03\obj\Debug\net6.0\ref\Test03.dll
