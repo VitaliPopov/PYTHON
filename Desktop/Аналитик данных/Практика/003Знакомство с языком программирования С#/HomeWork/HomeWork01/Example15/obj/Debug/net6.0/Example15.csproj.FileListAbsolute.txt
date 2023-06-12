@@ -1,0 +1,15 @@
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\obj\Debug\net6.0\Example15.csproj.AssemblyReference.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\obj\Debug\net6.0\Example15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\obj\Debug\net6.0\Example15.AssemblyInfoInputs.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\obj\Debug\net6.0\Example15.AssemblyInfo.cs
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\obj\Debug\net6.0\Example15.csproj.CoreCompileInputs.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\bin\Debug\net6.0\Example15.exe
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\bin\Debug\net6.0\Example15.deps.json
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\bin\Debug\net6.0\Example15.runtimeconfig.json
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\bin\Debug\net6.0\Example15.dll
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\bin\Debug\net6.0\Example15.pdb
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\obj\Debug\net6.0\Example15.dll
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\obj\Debug\net6.0\refint\Example15.dll
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\obj\Debug\net6.0\Example15.pdb
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\obj\Debug\net6.0\Example15.genruntimeconfig.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\HomeWork\HomeWork01\Example15\obj\Debug\net6.0\ref\Example15.dll
