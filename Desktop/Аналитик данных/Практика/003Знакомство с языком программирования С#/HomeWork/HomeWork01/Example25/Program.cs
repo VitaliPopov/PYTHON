@@ -7,13 +7,13 @@ Console.WriteLine("Enter X:");
 int X = int.Parse(Console.ReadLine());
 Console.WriteLine("Enter Y:");
 int Y = int.Parse(Console.ReadLine());
-Console.WriteLine($"{X}^{Y} = {result}");
-int result(int s)
+Console.WriteLine($"{X}^{Y} = {Power(X,Y)}");
+int Power(int X, int Y)
 {
-    int newresult = X;
+    int result = 1;
+    for (int i=0; i<Y; i++)
     {
-        for (int s=1; s<=Y; s++);
-        newresult = newresult*X;
+        result = result * X;
     }
-    return newresult;
+    return result;
 }
