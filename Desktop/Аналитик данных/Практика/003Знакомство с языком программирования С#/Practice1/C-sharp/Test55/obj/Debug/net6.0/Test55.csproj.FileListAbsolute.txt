@@ -1,0 +1,15 @@
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\bin\Debug\net6.0\Test55.exe
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\bin\Debug\net6.0\Test55.deps.json
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\bin\Debug\net6.0\Test55.runtimeconfig.json
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\bin\Debug\net6.0\Test55.dll
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\bin\Debug\net6.0\Test55.pdb
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\obj\Debug\net6.0\Test55.csproj.AssemblyReference.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\obj\Debug\net6.0\Test55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\obj\Debug\net6.0\Test55.AssemblyInfoInputs.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\obj\Debug\net6.0\Test55.AssemblyInfo.cs
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\obj\Debug\net6.0\Test55.csproj.CoreCompileInputs.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\obj\Debug\net6.0\Test55.dll
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\obj\Debug\net6.0\refint\Test55.dll
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\obj\Debug\net6.0\Test55.pdb
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\obj\Debug\net6.0\Test55.genruntimeconfig.cache
+C:\Users\PRONET\Desktop\Аналитик данных\Практика\003Знакомство с языком программирования С#\Practice1\C-sharp\Test55\obj\Debug\net6.0\ref\Test55.dll
